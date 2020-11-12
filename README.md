@@ -4,14 +4,14 @@
 Summaries and notes on recent cross-lingual approaches and South-east Asian languages
 
 ## Cross-lingual approaches
-* 📓 [Understanding Back-Translation at Scale](./cross-lingual/2018-Edunov_back-translation-at-scale.md) \#\# `back-translation`, `data-augmentation`, `unsupervised`
-* 📓 [Cross-lingual Projections between Languages from Different Families](./cross-lingual/2013-Mo_Xprojection.md) \#\# `data-augmentation`
+* 📓 [Understanding Back-Translation at Scale](./cross-lingual/2018-Edunov_back-translation-at-scale.md) -- `back-translation`, `data-augmentation`, `unsupervised`
+* 📓 [Cross-lingual Projections between Languages from Different Families](./cross-lingual/2013-Mo_Xprojection.md) -- `data-augmentation`
 
-* 📓 [Cross-lingual Language Model Pretraining](./cross-lingual/2019-Lample_XLM.md) \#\# `pre-trained`, `multilingual`, `XLM`
+* 📓 [Cross-lingual Language Model Pretraining](./cross-lingual/2019-Lample_XLM.md) -- `pre-trained`, `multilingual`, `XLM`
 
-* 📓 [Unsupervised Machine Translation Using Monolingual Corpora Only](./cross-lingual/2017-Lample_UNMT-only-monolingual-corpus.md) \#\# `machine-translation`, `NMT`, `unsupervised`
+* 📓 [Unsupervised Machine Translation Using Monolingual Corpora Only](./cross-lingual/2017-Lample_UNMT-only-monolingual-corpus.md) -- `machine-translation`, `NMT`, `unsupervised`
 
-* 📓 [Unsupervised Neural Machine Translation](./cross-lingual/2017-Artetxe_UNMT.md) \#\# `machine-translation`, `NMT`, `unsupervised`
+* 📓 [Unsupervised Neural Machine Translation](./cross-lingual/2017-Artetxe_UNMT.md) -- `machine-translation`, `NMT`, `unsupervised`
 
 
 
@@ -35,9 +35,9 @@ Summaries and notes on recent cross-lingual approaches and South-east Asian lang
 ## Transfer learning in general
 
 #### BERTology
-* 📓 [A Primer in BERTology: What we know about how BERT works](./otherwise/2020-Rogers_BERTology.md) \#\# `BERT`
+* 📓 [A Primer in BERTology: What we know about how BERT works](./otherwise/2020-Rogers_BERTology.md) -- `BERT`
 
-## Otherwise
+<!-- ## Otherwise -->
 
 
 # Future Reading
