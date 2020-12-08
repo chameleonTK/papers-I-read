@@ -34,8 +34,12 @@ Summaries and notes on recent cross-lingual approaches and South-east Asian lang
 
 ## Transfer learning in general
 
-#### BERTology
+#### Interpretability
 * 📓 [A Primer in BERTology: What we know about how BERT works](./otherwise/2020-Rogers_BERTology.md) -- `BERT`
+
+* 📓 [BERT is Not an Interlingua and the Bias of Tokenization](./cross-lingual/2020-Singh_mBERT_is_not_interlingua.md) -- `BERT`
+
+mBERT doesn't learn to produce shared representations but just effecintly partition its memory space. token overlap from BPE across languages inheritably has information about language tree.
 
 <!-- ## Otherwise -->
 
